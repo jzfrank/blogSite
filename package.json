@@ -11,7 +11,17 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.5"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzfrank/blogSite.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jzfrank/blogSite/issues"
+  },
+  "homepage": "https://github.com/jzfrank/blogSite#readme"
 }
